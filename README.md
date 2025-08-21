@@ -14,12 +14,7 @@ notebooks/03-Online-Serving
 </div>
 
 💻 Run this entire tutorial on [Anyscale](https://www.anyscale.com/) for free:
-**https://console.anyscale.com/template-preview/image-search-and-classification** or clone via git:
-
-```bash
-git clone
-cd ...
-```
+**https://console.anyscale.com/template-preview/image-search-and-classification** or access the repo [here](https://github.com/ray-project/ray/tree/master/doc/source/ray-overview/examples/e2e-multimodal-ai-workloads).
 
 This tutorial focuses on the fundamental challenges of multimodal AI workloads at scale:
 
